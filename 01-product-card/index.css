@@ -132,58 +132,58 @@ body{
 
 @media screen and (max-width:390px){
    
-.products_of_the_week_title{
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: 24px;
-    line-height: 48px;
-}
-.product_card{
-    width: 280px;
-    height: 382px;
-    margin-right: 0px;
-    margin-bottom: 20px;
-}
-.product_card_img{
-    width: 280px;
-    height: 157.52px;
-}
-.product_card_new{
-    top: 8px;
-    left: 8px;
-    width: 80px;
-    height: 15px;
-    font-size: 8px;
-    line-height: 16px;
-}
-.product_card_last{
-    position: absolute;
-    left: 96px;
-    top: 8px; 
-    width: 105px;
-    height: 15px;
-    font-size: 8px;
-    line-height: 16px;
-}
-.product_card_title{
-    padding-top: 12px;
-    padding-left: 12px;
-    padding-bottom: 8px;
-    font-size: 16px;
-    line-height: 24px;
-}
-.product_card_text{
-    padding-left: 12px;
-    padding-right: 12px;
-    padding-bottom: 12px;
-    font-size: 12px;
-    line-height: 20px;
-}
-.product_card_input{
-    margin-left: 12px;
-    width: 255px;
-    height: 36px;
-    font-size: 12px;
-    line-height: 19px;
-}
+    .products_of_the_week_title{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 24px;
+        line-height: 48px;
+    }
+    .product_card{
+        width: 280px;
+        height: 382px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .product_card_img{
+        width: 280px;
+        height: 157.52px;
+    }
+    .product_card_new{
+        top: 8px;
+        left: 8px;
+        width: 80px;
+        height: 15px;
+        font-size: 8px;
+        line-height: 16px;
+    }
+    .product_card_last{
+        position: absolute;
+        left: 96px;
+        top: 8px; 
+        width: 105px;
+        height: 15px;
+        font-size: 8px;
+        line-height: 16px;
+    }
+    .product_card_title{
+        padding-top: 12px;
+        padding-left: 12px;
+        padding-bottom: 8px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .product_card_text{
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-bottom: 12px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .product_card_input{
+        margin-left: 12px;
+        width: 255px;
+        height: 36px;
+        font-size: 12px;
+        line-height: 19px;
+    }
 }
